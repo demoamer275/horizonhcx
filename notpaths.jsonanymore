@@ -1,0 +1,24 @@
+{
+  "mappings": [
+    "/content/wehealthcare/language-masters/en:/",
+    "/content/wehealthcare/language-masters/en/:/en/",
+    "/content/wehealthcare/language-masters/en/pharma/neuropax:/neuropax",
+    "/content/wehealthcare/language-masters/fr/:/fr/",
+    "/content/wehealthcare/language-masters/fr:/fr",
+    "/content/wehealthcare/language-masters/es/:/es/",
+    "/content/wehealthcare/language-masters/es:/es",
+    "/content/wehealthcare/language-masters/ja/:/ja/",
+    "/content/wehealthcare/language-masters/ja:/ja",
+    "/content/wehealthcare/language-masters/de/:/de/",
+    "/content/wehealthcare/language-masters/de:/de",
+    "/content/wehealthcare/configuration:/.helix/config.json",
+    "/content/wehealthcare/metadata:/metadata.json",
+    "/content/wehealthcare/redirects:/redirects.json",
+    "/content/wehealthcare/placeholders:/placeholders.json"
+  ],
+  "includes": [
+    "/content/wehealthcare/",
+    "/content/dam/wehealthcare/",
+    "/content/dam/neuropax/"
+  ]
+}
