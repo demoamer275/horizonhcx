@@ -1,5 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p182083-e1919654.adobeaemcloud.com/bin/franklin.delivery/dprevelige/tvhc/main"
-    type: "markup"
-    suffix: ".html"

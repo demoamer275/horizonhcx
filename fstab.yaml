@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p182083-e1919654.adobeaemcloud.com/bin/franklin.delivery/demoamer275/horizonhcx/main"
+    type: "markup"
+    suffix: ".html"
