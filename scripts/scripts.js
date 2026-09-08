@@ -320,7 +320,7 @@ async function loadEager(doc) {
   }
   decorateTemplateAndTheme();
   renderWBDataLayer();
-  loadScript("https://assets.adobedtm.com/a069673a3d8b/517847f5f1d6/launch-c90a346f46d9-development.min.js");
+  loadScript("https://assets.adobedtm.com/eef8e35a96b5/a49ebbb14b2f/launch-e93b94cf63fc-development.min.js");
   const main = doc.querySelector('main');
   if (main) {
     decorateMain(main);
