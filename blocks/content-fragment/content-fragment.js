@@ -11,7 +11,7 @@ export default async function decorate(block) {
 	// Configuration
   const CONFIG = {
     WRAPPER_SERVICE_URL: 'https://3635370-refdemoapigateway-stage.adobeioruntime.net/api/v1/web/ref-demo-api-gateway/fetch-cf',
-    GRAPHQL_QUERY: '/graphql/execute.json/ref-demo-eds/teaserbypath',
+    GRAPHQL_QUERY: '/graphql/execute.json/wehealthcare/teaserbypath',
     EXCLUDED_THEME_KEYS: new Set(['brandSite', 'brandLogo'])
   };
 	
@@ -23,7 +23,7 @@ export default async function decorate(block) {
 	
 	//const aempublishurl = getMetadata('publishurl') || '';
 	
-  const persistedquery = '/graphql/execute.json/ref-demo-eds/teaserbypath';
+  const persistedquery = '/graphql/execute.json/wehealthcare/teaserbypath';
 
 	//const properties = readBlockConfig(block);
  
